@@ -8,7 +8,7 @@ print("Welcome to the Temperature Conversion program by me")
 choice = input("Do you want to convert from Farenheit to Celsius, or Celsius to Farenheit?")
 
 # 3. Ask the user for a number to convert
-temp = int(input(""))
+temp = int(input("What is the number you wouold like to convert?"))
 
 # 4. Convert the number to its respective temperature
 farenheit = ["farenheit", "f"]
